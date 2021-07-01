@@ -5,7 +5,7 @@ with open("README.md", "r",encoding='utf-8') as fh:
  
 setuptools.setup(
     name="bnpreprocessor",
-    version= "1.8",
+    version= "1.0.6",
     author="Abu Kaisar Mohammad Masum",
  
     author_email="abukaisar24@gmail.com",

@@ -4,7 +4,7 @@
 Installation
 -------------
 
-    pip install bn_preprocessor==1.8
+    pip install bnpreprocessor==1.0.7
 
 Quick Start
 -------------
